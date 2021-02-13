@@ -1,2 +1,2 @@
-# portage
-Gentoo ebuilds
+# quantum
+My Gentoo ebuilds Repository
